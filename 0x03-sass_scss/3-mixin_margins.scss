@@ -1,0 +1,12 @@
+@mixin set-marging ($value){
+    margin-left: $value;
+    margin-right: $value;
+}
+
+body {
+    @include set-marging(10px);
+}
+
+div {
+    @include set-marging(15px);
+}
