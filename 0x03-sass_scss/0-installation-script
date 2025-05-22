@@ -1,0 +1,15 @@
+# Step 1: Open Command Prompt and go to the project directory
+cd \alx-intermediate-frontend
+
+# Step 2: Create and go to the SASS folder
+mkdir 0x03-sass_scss
+cd 0x03-sass_scss
+
+# Step 3: Install Node.js from https://nodejs.org (LTS version 20.x)
+
+# Step 4: Check installation
+node -v
+npm -v
+
+# Step 5: Install SASS version 3.7.4
+npm install sass@3.7.4
